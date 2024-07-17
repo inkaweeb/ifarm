@@ -1,4 +1,4 @@
-# iFarm Script pour FiveM
+# iFarm Script pour FiveM (compatible ESX)
 
 ## Description
 Ce script FiveM permet aux joueurs de collecter des ressources, en particulier de l'acier, à des fins de farming.
