@@ -21,7 +21,7 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 - Vous pouvez configurer le script dans le fichier de configuration `config.lua`.
 
 ## Crédits
-- Développé par [Inka Web]([lien-vers-votre-profil-github](https://github.com/inkaweeb))
+- Développé par [Inka Web](https://github.com/inkaweeb)
 
 ## Licence
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Consultez le fichier `LICENSE` pour plus de détails.
