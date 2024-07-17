@@ -1,4 +1,4 @@
-# iFarm Script pour FiveM (compatible ESX)
+## iFarm Script pour FiveM (compatible ESX)
 
 ## Description
 Ce script FiveM permet aux joueurs de collecter des ressources, en particulier de l'acier, à des fins de farming.
@@ -16,6 +16,9 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 - Pour démarrer le farming, les joueurs doivent se rendre à l'emplacement désigné.
 - Interagissez avec le menu de farming pour commencer à collecter de l'acier.
 - La ressource collectée sera stockée automatiquement dans l'inventaire du joueur.
+
+## Vidéo de Présentation
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VOTRE_CODE_VIDEO](https://www.youtube.com/watch?v=XCS5yW8j20Q)" frameborder="0" allowfullscreen></iframe>
 
 ## Configuration
 - Vous pouvez configurer le script dans le fichier de configuration `config.lua`.
