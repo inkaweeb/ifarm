@@ -1,1 +1,31 @@
-# ifarm
+# iFarm Script pour FiveM
+
+## Description
+Ce script FiveM permet aux joueurs de collecter des ressources, en particulier de l'acier, à des fins de farming.
+
+## Fonctionnalités
+- Collecte d'acier automatique
+- Intégration facile avec le framework FiveM
+
+## Installation
+1. Assurez-vous d'avoir installé [FiveM](https://fivem.net/) sur votre serveur.
+2. Téléchargez les fichiers du script.
+3. Placez-les dans le répertoire `resources` de votre serveur FiveM.
+4. Ajoutez `start ifarm` dans votre fichier `server.cfg`.
+
+## Utilisation
+- Pour démarrer le farming, les joueurs doivent se rendre à l'emplacement désigné.
+- Interagissez avec l'objet de farming pour commencer à collecter de l'acier.
+- La ressource collectée sera stockée automatiquement dans l'inventaire du joueur.
+
+## Configuration
+- Vous pouvez configurer les taux de drop et les emplacements de farming dans le fichier de configuration `config.lua`.
+
+## Crédits
+- Développé par [VotreNom](lien-vers-votre-profil-github)
+
+## Licence
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Consultez le fichier `LICENSE` pour plus de détails.
+
+---
+Pour toute question ou support, n'hésitez pas à ouvrir une issue sur GitHub.
