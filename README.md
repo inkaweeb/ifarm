@@ -8,10 +8,9 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 - Intégration facile avec le framework FiveM
 
 ## Installation
-1. Assurez-vous d'avoir installé [FiveM](https://fivem.net/) sur votre serveur.
-2. Téléchargez les fichiers du script.
-3. Placez-les dans le répertoire `resources` de votre serveur FiveM.
-4. Ajoutez `start ifarm` dans votre fichier `server.cfg`.
+1. Téléchargez les fichiers du script.
+2. Placez-les dans le répertoire `resources` de votre serveur FiveM.
+3. Ajoutez `start ifarm` dans votre fichier `server.cfg`.
 
 ## Utilisation
 - Pour démarrer le farming, les joueurs doivent se rendre à l'emplacement désigné.
