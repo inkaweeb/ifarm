@@ -18,7 +18,7 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 - La ressource collectée sera stockée automatiquement dans l'inventaire du joueur.
 
 ## Vidéo de Présentation
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VOTRE_CODE_VIDEO](https://www.youtube.com/watch?v=XCS5yW8j20Q)" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=XCS5yW8j20Q
 
 ## Configuration
 - Vous pouvez configurer le script dans le fichier de configuration `config.lua`.
