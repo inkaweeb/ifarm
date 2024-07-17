@@ -23,8 +23,5 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 ## Crédits
 - Développé par [Inka Web](https://github.com/inkaweeb)
 
-## Licence
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Consultez le fichier `LICENSE` pour plus de détails.
-
 ---
 Pour toute question ou support, n'hésitez pas à ouvrir une issue sur GitHub.
