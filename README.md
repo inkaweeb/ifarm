@@ -14,11 +14,11 @@ Ce script FiveM permet aux joueurs de collecter des ressources, en particulier d
 
 ## Utilisation
 - Pour démarrer le farming, les joueurs doivent se rendre à l'emplacement désigné.
-- Interagissez avec l'objet de farming pour commencer à collecter de l'acier.
+- Interagissez avec le menu de farming pour commencer à collecter de l'acier.
 - La ressource collectée sera stockée automatiquement dans l'inventaire du joueur.
 
 ## Configuration
-- Vous pouvez configurer les taux de drop et les emplacements de farming dans le fichier de configuration `config.lua`.
+- Vous pouvez configurer le script dans le fichier de configuration `config.lua`.
 
 ## Crédits
 - Développé par [VotreNom](lien-vers-votre-profil-github)
